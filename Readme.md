@@ -15,9 +15,7 @@ WinServiceAuditor is a PowerShell based Windows service auditing tool that enume
 
 
 ```
-
-&nbsp;	.\\WinServiceAuditor.ps1
-
+.\WinServiceAuditor.ps1
 ```
 
 
