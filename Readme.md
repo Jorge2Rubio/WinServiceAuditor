@@ -1,4 +1,4 @@
-\## Description
+## Description
 
 
 
@@ -10,7 +10,7 @@ WinServiceAuditor is a PowerShell based Windows service auditing tool that enume
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -26,7 +26,7 @@ WinServiceAuditor is a PowerShell based Windows service auditing tool that enume
 
 
 
-\## Credits
+## Credits
 
 The Get-ServiceAcl function was adapted from publicly available examples by:
 
