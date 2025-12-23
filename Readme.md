@@ -30,5 +30,5 @@ WinServiceAuditor is a PowerShell based Windows service auditing tool that enume
 
 The Get-ServiceAcl function was adapted from publicly available examples by:
 
-* Rohn’s PowerShell Blog \[\[!https://rohnspowershellblog.wordpress.com/2013/03/19/viewing-service-acls/]]
-* cube0x0’s Gist \[\[https://gist.github.com/cube0x0/1cdef7a90473443f72f28df085241175]]
+* Rohn’s PowerShell Blog [[https://rohnspowershellblog.wordpress.com/2013/03/19/viewing-service-acls/]]
+* cube0x0’s Gist [[https://gist.github.com/cube0x0/1cdef7a90473443f72f28df085241175]]
